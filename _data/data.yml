@@ -54,7 +54,7 @@ career-profile:
     languages, methodologies and paradigms. Always studying, easy learner and challenge-driven. 
     Currently dedicating time to improve data analysis/sciences skillset, including 
     statistics and data manipulation.
-    
+
 education:
     - degree: BSc in Computer Science
       university: University Anhembi Morumbi - Brazil
@@ -168,7 +168,7 @@ skills:
       - name: IaC / Terraform / AWS
         level: 85%
 
-      - name: Python
+      - name: Python / Golang / Javascript
         level: 60%
 
 footer: >

@@ -4,12 +4,12 @@
 title: Romeu Fonseca - Online CV
 url: 'http://romeuhcf.gitpages.io'
 baseurl: '/online-cv' #change it according to your repository name
-description: Romeu Henrique Capparelli Fonseca - Sr. Backend Developer / SW Architect
+description: Romeu Henrique Capparelli Fonseca - Sr. Backend Developer / SW Architect / Ruby, Rails, Terraform, AWS, Linux, Python, go, golang, CI
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: --
+analytics: UA-161559792-1
 
 # Sass/SCSS
 sass:
