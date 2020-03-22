@@ -48,15 +48,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sr Ruby developer with extensive experience in backend, data administration, 
-      networking, messaging, multithreading paradigms, API integrations 
-      and high performance messaging. 
+      Brazilian with ~20 years of experience in b2b software development, mostly in Ruby.
       
-      Language agnostic with Python, PHP, ShellScript 
+      With extensive experience in backend, data administration, 
+      networking, messaging, multithreading paradigms, API integrations 
+      and high performance messaging. Language agnostic with Python, PHP, Bash, Go
       and C skills. Self-taught passionate developer, always looking for new practices, 
       languages, methodologies and paradigms. 
       
-      Always studying, easy learner and challenge-driven. 
+      Easy learner and challenge-driven. 
       Currently dedicating time to improve data analysis/sciences skillset, including 
       statistics and data manipulation.
 
@@ -175,11 +175,13 @@ skills:
       - name: Linux & Bash
         level: 98%
 
-      - name: CI (CircleCI / Gitlab / Jenkins / others)
-        level: 97%
 
       - name: Docker / ECS
         level: 95%
+
+
+      - name: CI & QA
+        level: 91%
 
       - name: IaC / Terraform / AWS
         level: 85%
