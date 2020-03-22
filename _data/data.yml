@@ -39,7 +39,7 @@ sidebar:
       - item: Bike
         link:
 
-      - item: Plastimodelism
+      - item: LEGO Technic
         link:
 
       - item: Cooking
@@ -85,9 +85,12 @@ experiences:
       time: 2019 - Present
       company: CargoX Logistics
       details: |
-        Rewriting / Refactoring authentication and authorization services in `Ruby` and `Rails`
-        for multitenant market place of logistics servces. Implemented several modules for `IaC` with `Terraform` and `Docker`.
-        Worked o- `Ruby`, `AWS`, `PHP`, `MySQL`, `PostgreSQL`, `JWT`, `ECS`, `Docker`, `Datadog`, `Terraform`
+        Rewriting / Refactoring authentication and authorization services in `Ruby` and `Rails` with `JWT` and `Swagger` APIs.
+        for multitenant market place of logistics servces. 
+        Implemented several modules for `IaC` with `Terraform` and `Docker`.
+        Learnt how to improve `monitoring` of `microservices` with `Datadog`
+        Managed several AWS modules to set up the infrastructure.
+        Implemented event system with AWS `SQS` and `SNS`.
 
     - role: Sr. Ruby Backend Development
       time: 2015 - 2017
