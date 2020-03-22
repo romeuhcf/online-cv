@@ -83,7 +83,7 @@ experiences:
       details: |
         Rewriting / Refactoring authentication and authorization services 
         for multitenant market place of logistics servces.
-        - *Ruby*, *AWS*, *PHP*, *MySQL*, *Postgres*, *JWT*, *ECS*, *Docker*, *Datadog*, *Terraform*
+        - *Ruby*, *AWS*, *PHP*, *MySQL*, `PostgreSQL`, *JWT*, *ECS*, *Docker*, *Datadog*, *Terraform*
 
     - role: Sr. Backend Development
       time: 2015 - 2017
