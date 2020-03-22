@@ -50,9 +50,13 @@ career-profile:
     summary: |
       Sr Ruby developer with extensive experience in backend, data administration, 
       networking, messaging, multithreading paradigms, API integrations 
-      and high performance messaging. Language agnostic with Python, PHP, ShellScript 
+      and high performance messaging. 
+      
+      Language agnostic with Python, PHP, ShellScript 
       and C skills. Self-taught passionate developer, always looking for new practices, 
-      languages, methodologies and paradigms. Always studying, easy learner and challenge-driven. 
+      languages, methodologies and paradigms. 
+      
+      Always studying, easy learner and challenge-driven. 
       Currently dedicating time to improve data analysis/sciences skillset, including 
       statistics and data manipulation.
 
@@ -72,7 +76,7 @@ experiences:
         Some of my responsibilities include:
         - Quality Assurance `automation`
         - Continuous Integration Deploy / Continuous deployment pipeline - `gitlab`
-        - Infrastructure as Code - `terraform`, `docker`
+        - Infrastructure as Code - `terraform`, `docker`, `AWS`
         - `Ruby` and `PHP` legacy system refactorization,
         - Integration with SMS vendors through web APIs with `REST`, `Swagger`, `SOAP`, `SMPP` or `databases`
         - Massive data management - `MySQL`, `PostgreSQL`, `SQLServer`, `MongoDB`, `Redis`
@@ -81,9 +85,9 @@ experiences:
       time: 2019 - Present
       company: CargoX Logistics
       details: |
-        Rewriting / Refactoring authentication and authorization services 
-        for multitenant market place of logistics servces.
-        - `Ruby`, `AWS`, `PHP`, `MySQL`, `PostgreSQL`, `JWT`, `ECS`, `Docker`, `Datadog`, `Terraform`
+        Rewriting / Refactoring authentication and authorization services in `Ruby` and `Rails`
+        for multitenant market place of logistics servces. Implemented several modules for `IaC` with `Terraform` and `Docker`.
+        Worked o- `Ruby`, `AWS`, `PHP`, `MySQL`, `PostgreSQL`, `JWT`, `ECS`, `Docker`, `Datadog`, `Terraform`
 
     - role: Sr. Ruby Backend Development
       time: 2015 - 2017
@@ -97,16 +101,16 @@ experiences:
       time: 2014 - 2015
       company: Abril Mídia, Sao Paulo - Brazil
       details: |
-        Designed and implemented a data transformation pipeline from the legacy 
-        CMS to a new restful architecture in `Ruby`.
+        Designed and implemented an ETL for news backlog transformation pipeline from the legacy 
+        CMS to a new `restful` architecture in `Ruby`.
         
     - role: Backend Developer and Tech Lead
       time: 2008 - 2014
       company: CMA Consulturia, Sao Paulo - Brazil
       details: |
         Coordinated the development and production of messaging services team (3-4 members)
-        Implemented message queues with Redis and Ruby with multi-threads approach.
-        Development of relational database with MySQL and PHP portal for B2B messaging 
+        Implemented message queues with `Redis` and `Ruby` with multi-threads approach.
+        Development of relational database with `MySQL` and `PHP` portal for B2B messaging 
         of email and fax.
 
 # projects:
