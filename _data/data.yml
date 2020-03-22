@@ -70,10 +70,12 @@ experiences:
       company: MKM ServiceCom
       details: |
         Some of my responsibilities include:
+        - Quality Assurance automation
+        - Continuous Integration Deploy / Continuous deployment pipeline - gitlab
+        - Infrastructure as Code - terraform, docker
         - Ruby and PHP legacy system refactorization,
         - Integration with SMS vendors through web APIs, SMPP or databases
-        - Management of business SQLServer database
-        - Migration of data to MySQL
+        - Massive data management - MySQL, PostgreSQL, SQLServer, MongoDB, Redis
 
     - role: Sr. Backend Development
       time: 2019 - Present
@@ -81,7 +83,7 @@ experiences:
       details: |
         Rewriting / Refactoring authentication and authorization services 
         for multitenant market place of logistics servces.
-        - *Ruby* | *AWS* | *PHP* | *MySQL* | *Postgres* | *JWT* | *ECS* | *Docker* | *Datadog* | *Terraform*
+        - *Ruby*, *AWS*, *PHP*, *MySQL*, *Postgres*, *JWT*, *ECS*, *Docker*, *Datadog*, *Terraform*
 
     - role: Sr. Backend Development
       time: 2015 - 2017
