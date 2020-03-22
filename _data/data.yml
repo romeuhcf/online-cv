@@ -70,12 +70,12 @@ experiences:
       company: MKM ServiceCom
       details: |
         Some of my responsibilities include:
-        - Quality Assurance automation
-        - Continuous Integration Deploy / Continuous deployment pipeline - gitlab
-        - Infrastructure as Code - terraform, docker
-        - Ruby and PHP legacy system refactorization,
-        - Integration with SMS vendors through web APIs, SMPP or databases
-        - Massive data management - MySQL, PostgreSQL, SQLServer, MongoDB, Redis
+        - Quality Assurance `automation`
+        - Continuous Integration Deploy / Continuous deployment pipeline - `gitlab`
+        - Infrastructure as Code - `terraform`, `docker`
+        - `Ruby` and `PHP` legacy system refactorization,
+        - Integration with SMS vendors through web APIs with `REST`, `Swagger`, `SOAP`, `SMPP` or `databases`
+        - Massive data management - `MySQL`, `PostgreSQL`, `SQLServer`, `MongoDB`, `Redis`
 
     - role: Sr. Backend Development
       time: 2019 - Present
@@ -83,9 +83,9 @@ experiences:
       details: |
         Rewriting / Refactoring authentication and authorization services 
         for multitenant market place of logistics servces.
-        - *Ruby*, *AWS*, *PHP*, *MySQL*, `PostgreSQL`, *JWT*, *ECS*, *Docker*, *Datadog*, *Terraform*
+        - `Ruby`, `AWS`, `PHP`, `MySQL`, `PostgreSQL`, `JWT`, `ECS`, `Docker`, `Datadog`, `Terraform`
 
-    - role: Sr. Backend Development
+    - role: Sr. Ruby Backend Development
       time: 2015 - 2017
       company: SK Intertainment, Inc.
       details: |
@@ -98,7 +98,7 @@ experiences:
       company: Abril Mídia, Sao Paulo - Brazil
       details: |
         Designed and implemented a data transformation pipeline from the legacy 
-        CMS to a new restful architecture in Ruby.
+        CMS to a new restful architecture in `Ruby`.
         
     - role: Backend Developer and Tech Lead
       time: 2008 - 2014
@@ -106,7 +106,8 @@ experiences:
       details: |
         Coordinated the development and production of messaging services team (3-4 members)
         Implemented message queues with Redis and Ruby with multi-threads approach.
-        Development of relational database with MySQL and PHP portal for B2B messaging of email and fax.
+        Development of relational database with MySQL and PHP portal for B2B messaging 
+        of email and fax.
 
 # projects:
 #     title: Projects
