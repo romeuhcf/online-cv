@@ -49,7 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
       Sr Ruby developer with extensive experience in backend, data administration, 
-      networking (TCP/UDP), messaging, multithreading paradigms, API integrations 
+      networking, messaging, multithreading paradigms, API integrations 
       and high performance messaging. Language agnostic with Python, PHP, ShellScript 
       and C skills. Self-taught passionate developer, always looking for new practices, 
       languages, methodologies and paradigms. Always studying, easy learner and challenge-driven. 
@@ -77,10 +77,11 @@ experiences:
 
     - role: Sr. Backend Development
       time: 2019 - Present
-      company: MKM ServiceCom
+      company: CargoX Logistics
       details: |
         Rewriting / Refactoring authentication and authorization services 
         for multitenant market place of logistics servces.
+        - *Ruby* | *AWS* | *PHP* | *MySQL* | *Postgres* | *JWT* | *ECS* | *Docker* | *Datadog* | *Terraform*
 
     - role: Sr. Backend Development
       time: 2015 - 2017
