@@ -25,14 +25,15 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+      
+      - idiom: Portuguese
+        level: Native
+        
       - idiom: English
         level: Professional
 
       - idiom: German
         level: Basic
-
-      - idiom: Portuguese
-        level: Native
 
     interests:
       - item: Bike
