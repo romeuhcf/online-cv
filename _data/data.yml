@@ -76,7 +76,7 @@ experiences:
       details: |
         Some of my responsibilities include:
         - Quality Assurance `automation`
-        - Continuous Integration Deploy / Continuous deployment pipeline - `gitlab`
+        - Continuous Integration / Deploy - `gitlab`
         - Infrastructure as Code - `terraform`, `docker`, `AWS`
         - `Ruby` and `PHP` legacy system refactorization,
         - Integration with SMS vendors through web APIs with `REST`, `Swagger`, `SOAP`, `SMPP` or `databases`
@@ -110,7 +110,7 @@ experiences:
 
     - role: Backend Developer and Tech Lead
       time: 2008 - 2014
-      company: CMA Consulturia, Sao Paulo - Brazil
+      company: CMA Consultoria, Sao Paulo - Brazil
       details: |
         Coordinated the development and production of messaging services team (3-4 members)
         Implemented message queues with `Redis` and `Ruby` with multi-threads approach.
