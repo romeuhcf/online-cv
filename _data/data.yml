@@ -19,16 +19,16 @@ sidebar:
     github: romeuhcf
     gitlab: romeu.hcf
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: 1639481/romeu-hcf
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      
+
       - idiom: Portuguese
         level: Native
-        
+
       - idiom: English
         level: Professional
 
@@ -48,17 +48,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Brazilian developmer with 20 years of experience in software development,
+      I am a Brazilian developer with 20 years of experience in software development,
       mostly in Ruby.
-      
-      With extensive experience in backend, data administration, 
-      networking, messaging, multithreading paradigms, API integrations 
+
+      With extensive experience in backend, data administration,
+      networking, messaging, multithreading paradigms, API integrations
       and high performance messaging. Language agnostic with Python, PHP, Bash, Go
-      and C skills. Self-taught passionate developer, always looking for new practices, 
-      languages, methodologies and paradigms. 
-      
-      Easy learner and challenge-driven. 
-      Currently dedicating time to improve data analysis/sciences skillset, including 
+      and C skills. Self-taught passionate developer, always looking for new practices,
+      languages, methodologies and paradigms.
+
+      Easy learner and challenge-driven.
+      Currently dedicating time to improve data analysis/sciences skillset, including
       statistics and data manipulation.
 
 education:
@@ -68,7 +68,7 @@ education:
     - degree: BSc in Mathematics
       university: USP - Univerity of Sao Paulo
       time: 2001 - 2004 (incomplete)
-      
+
 experiences:
     - role: Head Of Software Development
       time: 2015 - Present
@@ -87,7 +87,7 @@ experiences:
       company: CargoX Logistics
       details: |
         Rewriting / Refactoring authentication and authorization services in `Ruby` and `Rails` with `JWT` and `Swagger` APIs.
-        for multitenant market place of logistics servces. 
+        for multitenant market place of logistics servces.
         Implemented several modules for `IaC` with `Terraform` and `Docker`.
         Learnt how to improve `monitoring` of `microservices` with `Datadog`
         Managed several AWS modules to set up the infrastructure.
@@ -97,7 +97,7 @@ experiences:
       time: 2015 - 2017
       company: SK Intertainment, Inc.
       details: |
-        I have been part of a mature agile team, with nice skills and tools. 
+        I have been part of a mature agile team, with nice skills and tools.
         I've been responsible for maintaining back-end code on current properties,
         implementing new features, bug fixing.
 
@@ -105,16 +105,16 @@ experiences:
       time: 2014 - 2015
       company: Abril Mídia, Sao Paulo - Brazil
       details: |
-        Designed and implemented an ETL for news backlog transformation pipeline from the legacy 
+        Designed and implemented an ETL for news backlog transformation pipeline from the legacy
         CMS to a new `restful` architecture in `Ruby`.
-        
+
     - role: Backend Developer and Tech Lead
       time: 2008 - 2014
       company: CMA Consulturia, Sao Paulo - Brazil
       details: |
         Coordinated the development and production of messaging services team (3-4 members)
         Implemented message queues with `Redis` and `Ruby` with multi-threads approach.
-        Development of relational database with `MySQL` and `PHP` portal for B2B messaging 
+        Development of relational database with `MySQL` and `PHP` portal for B2B messaging
         of email and fax.
 
 # projects:
